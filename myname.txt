@@ -1,8 +1,0 @@
-#!/bin/bash
-
-# command to print process
-
-echo Showing Process
-ps -ef
-
-
